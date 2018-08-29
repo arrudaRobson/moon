@@ -1,7 +1,7 @@
 # Site
-title:              ROBSON
-bio:                'Minimal, Test'
-description:        "This a minimal, test."
+title:              ASSOCIAÇÃO COMUNITÁRIA CULTURAL E ESPORTIVA DA ZONA SUL
+bio:                'Bem vindo ao web site da ACEZOS'
+description:        "Bem vindo ao web site da ACEZOS"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -38,21 +38,21 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            acezos
+facebook:           acezos
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          username
+#linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
-youtube:           username
+youtube:           Acezos
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
