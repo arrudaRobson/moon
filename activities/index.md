@@ -1,7 +1,7 @@
 ---
-layout: activities
+layout: page
 title: Nossas Atividades
-excerpt: "A List of Posts"
+date: 2018-09-02
 comments: false
 ---
 
