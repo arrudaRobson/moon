@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: activities
 title: Nossas Atividades
 excerpt: "A List of Posts"
 comments: false
