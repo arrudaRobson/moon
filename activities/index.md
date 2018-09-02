@@ -7,4 +7,6 @@ comments: false
 
 ## Telecentro
 
-**[*Telecentro SP*](https://sp156.prefeitura.sp.gov.br/portal)**
+![telecentro](assets/img/telecentro.jpeg)
+
+**[*Telecentro SP*](https://www.prefeitura.sp.gov.br/cidade/secretarias/inovacao/inclusao_digital/index.php?p=246630)**
