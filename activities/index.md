@@ -5,6 +5,8 @@ date: 2018-09-02
 comments: false
 ---
 
+---
+
 ## Telecentro
 
 De acordo com o marco civil da internet (Lei Federal nº 12.965/2014), o uso da internet é essencial ao exercício da cidadania e reconhecido em escala mundial, assim, o acesso proporcionado tem como objetivo viabilizar tal contato na região.
@@ -16,3 +18,5 @@ A finalidade desta atividade é promover o uso social da rede e liberdade promov
 ![telecentro](https://cdn.rawgit.com/arrudaRobson/moon/44b5eb99/assets/img/telecentro.jpeg)
 
 **[*Telecentro SP*](https://www.prefeitura.sp.gov.br/cidade/secretarias/inovacao/inclusao_digital/index.php?p=246630)**
+
+---
