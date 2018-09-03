@@ -7,6 +7,6 @@ comments: false
 
 ## Telecentro
 
-![telecentro](https://drive.google.com/file/d/1x_4G3l_188TG2w5PvzT3l7CxJB0W_lsL/view)
+![telecentro](https://cdn.rawgit.com/arrudaRobson/moon/44b5eb99/assets/img/telecentro.jpeg)
 
 **[*Telecentro SP*](https://www.prefeitura.sp.gov.br/cidade/secretarias/inovacao/inclusao_digital/index.php?p=246630)**
