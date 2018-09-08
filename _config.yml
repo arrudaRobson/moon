@@ -5,10 +5,10 @@ description:        "Contribuímos para a formação da comunidade, através de 
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/campo.jpeg'
+background:         'assets/img/campo.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://arrudaRobson.github.io/moon
+url:                https://associacaoacezos.com.br
 
 # Jekyll
 permalink:          /:title/
