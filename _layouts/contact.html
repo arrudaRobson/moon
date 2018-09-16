@@ -1,0 +1,38 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <h1>{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.google.com/maps/place/Associa%C3%A7%C3%A3o+Acezos/@-23.717363,-46.6929617,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce4fa1c8cc167b:0xafe3d892a4c3525d!8m2!3d-23.717363!4d-46.690773">
+                        <img src="http://res.cloudinary.com/dxz5x76gx/image/upload/q_auto:good/v1537125213/mapa.png" class="img-circle zoombtn animated rotateIn">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+</body>
+</html>
